@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Culmid&style=flat-square&color=blue" alt="View Count"/>
   <h1>
-  hey there
+  Hello, World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand"/>
 </h1>
 </div>
